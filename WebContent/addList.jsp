@@ -2,7 +2,7 @@
 
 <%@ page import="java.util.List" %>
 <%@ page import="com.javaex.dao.GuestbookDao" %>
-<%@ page import="com.javaex.vo.GuestbookVo" %> 
+<%@ page import="com.javaex.vo.GuestbookVo" %>
 
 
 <%
